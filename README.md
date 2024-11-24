@@ -9,7 +9,7 @@ Este repositório contém a resolução de diversos exercícios acadêmicos que 
 ### Estrutura do Repositório
 
 - Cada exercício está implementado em um arquivo separado com a extensão `.c`.
-- Os nomes dos arquivos refletem o exercício que eles resolvem, facilitando a identificação.
+- Os nomes dos arquivos refletem o número do exercício que eles resolvem, facilitando a identificação (sendo o primeiro número referente a aula e o segundo referente ao exercício na lista).
 - O código está organizado de forma clara, legível e eficiente, com o objetivo de auxiliar outros estudantes ou interessados no aprendizado da linguagem C.
 
 ---
@@ -46,7 +46,6 @@ Os exercícios abordam os seguintes tópicos fundamentais da programação estru
 Para compilar e executar os códigos, você precisará de um compilador para a linguagem C, como:
 
 - **GCC** (GNU Compiler Collection)
-- **Clang**
 - Compiladores disponíveis em IDEs como **Code::Blocks**, **Dev-C++**, ou **Visual Studio Code**.
 
 ### Como Compilar e Executar
